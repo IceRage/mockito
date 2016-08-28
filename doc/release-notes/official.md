@@ -1,5 +1,25 @@
 ### 2.1.0-RC.1 (2016-08-27 14:57 UTC)
 
+# Brand new Mockito 2
+
+__Mockito 2: even cleaner tests!!! THANK you for mocking with us, your patience waiting for v2, and kudos to fantastic gang of contributors!__
+
+Mockito 2 demands even cleaner tests: remove unnecessary stubs [link?], detect incorrect code with improved argument matchers [link?], use Java 8 answers [link?], and more. In 2016, Mockito has estimated user base of 2M engineers - thank you very much for mocking with us! We greatly value your feedback, feature requests and contributions: v2 contains nearly 700 commits from almost 50 individual contributors!!!
+
+Since 2014 Mockito continually delivers [link to article]: every merged pull request that passes our rigorous unit and integration tests automatically generates: documentation, release notes and artifacts in Maven Central. As much as we are proud our automation and excited about v2 release we acknowledge our problems: undelivered commitments about the final release date, too many beta versions. We will fix this [link to ticket].
+
+Wondering why 2.1.0 instead of 2.0.0? There is a reason [link].
+
+The release of Mockito 2 effectively starts Mockito 3 project [link?] that focuses on:
+ - full-blown Java 8 and Java 9 support [link?]
+ - richer stubbing/mocking API [link?]
+ - improving & extracting the continuous delivery automation to a standalone library [link?]
+ - and more!
+
+Help us! We are eager to expand the team and continue improving unit testing experience with mocks. Submit pull requests! [link] When your PR gets merged, new version of Mockito is published and it is signed with your name in the release notes!
+
+# What's inside?
+
 * Authors: 48
 * Commits: 686
   * 197: Brice Dutheil

@@ -4,7 +4,7 @@
 
 Mockito 2: even cleaner tests!!! THANK you for mocking with us, your patience waiting for v2, and kudos to fantastic gang of contributors!
 
-For comprehensive overview of brand new release see ['What's new in Mockito 2'](https://github.com/mockito/mockito/wiki/What%27s-new-in-Mockito-2) wiki page.
+For comprehensive overview of the brand new release see [What's new in Mockito 2](https://github.com/mockito/mockito/wiki/What%27s-new-in-Mockito-2) wiki page.
 
 # What's inside?
 
